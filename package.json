@@ -1,0 +1,23 @@
+{
+  "name": "plannerapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivak12/plannerapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivak12/plannerapp/issues"
+  },
+  "homepage": "https://github.com/sivak12/plannerapp",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
